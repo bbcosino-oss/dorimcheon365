@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": ".streamlit"
+		},
+		{
+			"path": "demo_images"
+		}
+	]
+}
